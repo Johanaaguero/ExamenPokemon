@@ -1,0 +1,6 @@
+@MiPokemonFavoritoAPI_HostAddress = https://localhost:5001
+
+GET {{MiPokemonFavoritoAPI_HostAddress}}/api/pokemon/favorite
+Accept: application/json
+
+###
